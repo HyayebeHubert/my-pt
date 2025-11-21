@@ -1,0 +1,16 @@
+body{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+div.nu1{
+    width: 180px;
+    height: 250px;
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+    margin-left: 300px;
+}
+div {
+    border-radius: 20px;
+}
