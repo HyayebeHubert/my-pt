@@ -1,2 +1,0 @@
-# my-pt
-my portfolio
